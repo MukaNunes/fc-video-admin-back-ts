@@ -25,13 +25,14 @@
 			"omzPlugins": "https://github.com/z-shell/F-Sy-H https://github.com/zsh-users/zsh-autosuggestions https://github.com/zsh-users/zsh-completions"
 		}
 	},
-	// "customizations": {
-	// 	"vscode": {
-	// 		"extensions": [
-	// 			""
-	// 		]
-	// 	}
-	// }
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Orta.vscode-jest",
+				"firsttris.vscode-jest-runner"
+			]
+		}
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
